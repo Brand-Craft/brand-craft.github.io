@@ -3344,8 +3344,8 @@ table.alt tbody tr td {
   background-color: #212931;
   background-image: url('../../images/overlay.png'),
     linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.1)),
-    url('https://drmaliecoyne.ie/wp-content/uploads/2015/10/hd.jpg');
-  opacity: 0.3;
+    url('../../images/desert.jpg');
+  opacity: 0.8;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
