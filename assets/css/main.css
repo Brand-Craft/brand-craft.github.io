@@ -4807,3 +4807,10 @@ body.is-preload #intro:not(.hidden) + #header + #nav {
     visibility: visible;
   }
 }
+
+.btn-disabled,
+.btn-disabled[disabled] {
+  opacity: 0.4;
+  cursor: default !important;
+  pointer-events: none;
+}
